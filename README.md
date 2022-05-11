@@ -1,3 +1,7 @@
+<div align="center">
+  <h1>Tela de Login</h1>
+</div>
+
 ## :dart: Objetivo
 
 Com o objetivo de aprender como HTML e CSS funciona, eu fiz minha primeira tela de Login com a intenção de adquirir conhecimento e praticar a mesma. Esta primeira tela foi desenvolvida na data do dia 21/06/2020.
@@ -12,3 +16,14 @@ Com o objetivo de aprender como HTML e CSS funciona, eu fiz minha primeira tela 
 
 ## :desktop_computer: Padronização de código
 -   [Prettier](https://prettier.io/)
+
+## :rocket: Executando o projeto
+
+➡️ **Download do projeto**
+```bash
+https://github.com/tarsolima/TeladeLogin1.git
+```
+➡️ **Acessando a pasta do projeto depois do clone do projeto**
+```bash
+cd TeladeLogin1
+```
