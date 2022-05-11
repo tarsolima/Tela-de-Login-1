@@ -21,7 +21,7 @@ Com o objetivo de aprender como HTML e CSS funciona, eu fiz minha primeira tela 
 
 ➡️ **Download do projeto**
 ```bash
-https://github.com/tarsolima/TeladeLogin1.git
+git clone https://github.com/tarsolima/TeladeLogin1.git
 ```
 ➡️ **Acessando a pasta do projeto depois do clone do projeto**
 ```bash
