@@ -19,7 +19,7 @@ Obs: <strong>Todos os projetos são responsivos!</strong>
 ## :desktop_computer: Padronização de código
 -   [Prettier](https://prettier.io/)
 
-## :rocket: Executando o projeto
+<!-- ## :rocket: Executando o projeto
 
 ➡️ **Download do projeto**
 ```bash
@@ -28,4 +28,4 @@ git clone https://github.com/tarsolima/TeladeLogin1.git
 ➡️ **Acessando a pasta do projeto depois do clone do projeto**
 ```bash
 cd TeladeLogin1
-```
+``` -->
